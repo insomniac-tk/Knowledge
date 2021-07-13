@@ -11,6 +11,7 @@ Feel free to add resources to this!
     
 4. Data Science
     - [Data Science Roadmap](https://github.com/MrMimic/data-scientist-roadmap)  
+    - [Time Series Guide](https://www.kaggle.com/konradb/practical-time-series-part-1-the-basics)
 
 
 5. Uncategorised  
