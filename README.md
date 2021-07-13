@@ -11,3 +11,7 @@ Feel free to add resources to this!
     
 4. Data Science
     - [Data Science Roadmap](https://github.com/MrMimic/data-scientist-roadmap)  
+
+
+5. Uncategorised  
+    - [Jupyter Notebook Magic Commands](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
