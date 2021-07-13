@@ -1,4 +1,6 @@
-# Knowledge Bank
+# Knowledge Bank  
+Feel free to add resources to this! 
+
 1. Data Structures & Algorithms  
     - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)  
 2. Mathematics  
