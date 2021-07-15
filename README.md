@@ -12,6 +12,7 @@ Feel free to add resources to this!
 4. Data Science
     - [Data Science Roadmap](https://github.com/MrMimic/data-scientist-roadmap)  
     - [Time Series Guide](https://www.kaggle.com/konradb/practical-time-series-part-1-the-basics)
+    - [Hyper-parameter Tuning](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 
 
 5. Uncategorised  
