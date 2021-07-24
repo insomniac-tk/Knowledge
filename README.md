@@ -17,3 +17,5 @@ Feel free to add resources to this!
 
 5. Uncategorised  
     - [Jupyter Notebook Magic Commands](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+6. Deep Learning
+    - [Deep Learning ROADMAP] (https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/)
