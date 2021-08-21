@@ -13,6 +13,7 @@ Feel free to add resources to this!
     - [Data Science Roadmap](https://github.com/MrMimic/data-scientist-roadmap)  
     - [Time Series Guide](https://www.kaggle.com/konradb/practical-time-series-part-1-the-basics)
     - [Hyper-parameter Tuning(with RandomForest example)](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+    - [Tired of Cliché Datasets? Here are 18 Awesome Alternatives From All Domains](https://towardsdatascience.com/tired-of-clich%C3%A9-datasets-here-are-18-awesome-alternatives-from-all-domains-196913161ec9)
 
 
 5. Uncategorised  
