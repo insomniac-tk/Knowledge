@@ -8,6 +8,7 @@ Feel free to add resources to this!
 3. Software Engineering/ Coding/ Python 
     - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) 
     - [Python , Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+    - [Floating Point Operations](https://en.wikipedia.org/wiki/Floating-point_arithmetic#Floating-point_numbers)
     
 4. Data Science
     - [Data Science Roadmap](https://github.com/MrMimic/data-scientist-roadmap)  
