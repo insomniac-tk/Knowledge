@@ -20,5 +20,6 @@ Feel free to add resources to this!
 5. Uncategorised  
     - [Jupyter Notebook Magic Commands](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
     - [Wireless Headphones Guide](https://medium.com/@xawnia/headphones-and-no-cables-6ae84510ca7e)
+    - [Physical vs Logical Processors?](https://www.linkedin.com/pulse/understanding-physical-logical-cpus-akshay-deshpande)
 6. Deep Learning
     - [Deep Learning Roadmap](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/)
