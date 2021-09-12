@@ -24,3 +24,4 @@ Feel free to add resources to this!
 6. Deep Learning
     - [Deep Learning Roadmap](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/)
     - [Why is RELU not differentiable at 0?](https://sebastianraschka.com/faq/docs/relu-derivative.html)
+    - [Neural Nets By Andrej Karpathy](http://karpathy.github.io/neuralnets/)
