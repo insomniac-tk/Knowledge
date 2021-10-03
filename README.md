@@ -26,3 +26,4 @@ Feel free to add resources to this!
     - [Deep Learning Roadmap](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/)
     - [Why is RELU not differentiable at 0?](https://sebastianraschka.com/faq/docs/relu-derivative.html)
     - [Neural Nets By Andrej Karpathy](http://karpathy.github.io/neuralnets/)
+    - [Weight Initialisation in Neural Nets](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)
