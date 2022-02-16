@@ -27,3 +27,6 @@ Feel free to add resources to this!
     - [Why is RELU not differentiable at 0?](https://sebastianraschka.com/faq/docs/relu-derivative.html)
     - [Neural Nets By Andrej Karpathy](http://karpathy.github.io/neuralnets/)
     - [Weight Initialisation in Neural Nets](https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79)
+
+7. Operating Systems
+   - [How to Add a Binary (or Executable, or Program) to Your PATH on macOS, Linux, or Windows](https://zwbetz.com/how-to-add-a-binary-to-your-path-on-macos-linux-windows/)
